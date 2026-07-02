@@ -7,7 +7,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
   res.json({
     status: 'ok',
-    message: 'DevOps Assignment API',
+    message: 'DevOps Assignment API - Updated via CI/CD!',
     timestamp: new Date().toISOString()
   });
 });
