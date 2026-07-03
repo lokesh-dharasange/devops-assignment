@@ -137,8 +137,7 @@ devops-assignment/
 
 ## GitHub Actions
 
-![GitHub Actions](screenshots/03-github-actions-success.png)
-
+![GitHub Actions](https://github.com/lokesh-dharasange/devops-assignment/blob/main/GitHub%20Actions%20workflow.png)
 ---
 
 ## PM2 Status
