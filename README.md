@@ -161,8 +161,7 @@ devops-assignment/
 
 ## CloudWatch Alarm
 
-![Alarm](screenshots/07-cloudwatch-alarm.png)
-
+![Alarm](https://github.com/lokesh-dharasange/devops-assignment/blob/main/CloudWatch%20Alarm.png)
 ---
 
 ## SNS Subscription
