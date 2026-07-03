@@ -143,7 +143,7 @@ devops-assignment/
 
 ## PM2 Status
 
-![PM2](screenshots/04-pm2-status.png)
+![PM2](https://github.com/lokesh-dharasange/devops-assignment/blob/main/PM2%20Status.png)
 
 ---
 
