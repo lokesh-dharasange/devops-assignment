@@ -166,7 +166,7 @@ devops-assignment/
 
 ## SNS Subscription
 
-![SNS](screenshots/08-sns-confirmed.png)
+![SNS](https://github.com/lokesh-dharasange/devops-assignment/blob/main/SNS.png)
 
 ---
 
