@@ -131,7 +131,7 @@ devops-assignment/
 
 ## Application Running
 
-![Application](screenshots/02-application-running.png)
+![Application](https://github.com/lokesh-dharasange/devops-assignment/blob/main/Application%20Running.png)
 
 ---
 
